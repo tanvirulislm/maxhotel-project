@@ -90,8 +90,7 @@ If you have questions or want to connect, feel free to reach out:
 - **Website**: [tanvirulislam.xyz](https://tanvirulislam.xyz)
 
 ### **📜 License**
-Copy this code and save it as `README.md` in your project directory. It’s now a complete, formatted file for your repository! Let me know if you’d like any changes. 😊
-
+This project is licensed under the MIT License.
 
 
 
