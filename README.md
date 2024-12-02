@@ -31,33 +31,41 @@ Welcome to **MaxHotel**, a modern hotel website designed to provide a seamless a
    git clone https://github.com/tanvirulislm/maxhotel-project.git
 
 2. Navigate to the project directory:
-```bash
+```
 cd maxhotel-project
+```
 
-3. Install dependencies:
+4. Install dependencies:
 
-```bash
+```
 composer install
+ ```
 
 4. Set up the environment file:
-```bash
+```
 cp .env.example .env
+```
 
-Update the .env file with your database credentials.
+Update the `.env` file with your database credentials.
 
 5. Generate the application key:
-```bash
+```
 php artisan key:generate
+```
 
-6. Run migrations:
-```bash
+7. Run migrations:
+```
 php artisan migrate
+```
 
-7. Serve the application:
-```bash
+8. Serve the application:
+```
 php artisan serve
+```
 
+```
 Visit http://localhost:8000 in your browser.
+```
 
 ### **🛠️ Usage**
 This repository serves as a foundation for a fully functional hotel booking platform. You can use it as-is for learning Laravel or customize it further to meet your project's requirements.
