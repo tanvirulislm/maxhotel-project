@@ -85,8 +85,9 @@ Contributions, suggestions, or feedback are welcome! Feel free to open an issue 
 ### **📧 Contact**
 If you have questions or want to connect, feel free to reach out:
 
-Author: Tanvirul Islam
-GitHub: tanvirulislm
+- **Author**: Tanvirul Islam  
+- **GitHub**: [tanvirulislm](https://github.com/tanvirulislm)  
+- **Website**: [tanvirulislam.xyz](https://tanvirulislam.xyz)
 
 ### **📜 License**
 Copy this code and save it as `README.md` in your project directory. It’s now a complete, formatted file for your repository! Let me know if you’d like any changes. 😊
